@@ -1,5 +1,4 @@
 # Calcora_v1.0
-Calcora is a menu-driven scientific calculator built in C. 
-It supports a wide range of operations including basic arithmetic, trigonometric functions, logarithms, exponentials, factorials, permutations, combinations, and unit conversions between degrees and radians.
-
-Designed with a clean CLI interface, Calcora aims to provide accurate and efficient mathematical computations while maintaining simplicity and usability.
+I just dropped Calcora v1.0 — a clean, lightning-fast scientific calculator written entirely in pure C. No bloated frameworks. No hand-holding. Just raw mathematical muscle running at the speed of thought.
+It handles the classics: trigonometry, logarithms, exponents, roots, factorials, and everything else you throw at it like a pro. Built for precision. Built for speed. Built because existing calculators were... adequate. And I don’t do adequate.
+This is version one. It’s already smarter than half the apps on your phone.
